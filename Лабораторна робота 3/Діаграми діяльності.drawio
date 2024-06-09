@@ -1,0 +1,342 @@
+<mxfile host="Electron" modified="2024-05-31T21:27:36.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="FeSzl8VAic_PvlL0susb" version="24.4.8" type="device">
+  <diagram name="Сторінка-1" id="VfSigHIlXigz5TY4K7iH">
+    <mxGraphModel dx="3591" dy="1840" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U90lkcQAft6ZCRrswfQR-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-60" target="U90lkcQAft6ZCRrswfQR-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-60" value="Початок" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="46" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-61" target="U90lkcQAft6ZCRrswfQR-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-61" value="Вхід в систему" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="46" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-63" target="U90lkcQAft6ZCRrswfQR-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-63" value="Перехід на сторінку форуму" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="46" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-65" target="U90lkcQAft6ZCRrswfQR-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-65" value="Відображення списку&amp;nbsp;&lt;div&gt;тем та постів&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="26" y="370" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-67" target="U90lkcQAft6ZCRrswfQR-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-67" value="Натискання кнопки &quot;Створити новий пост&quot;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="46" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-69" target="U90lkcQAft6ZCRrswfQR-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-69" value="Відображення форми створення посту" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="46" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-71" target="U90lkcQAft6ZCRrswfQR-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-71" value="Введення&amp;nbsp;&lt;div&gt;заголовку посту&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="46" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-73" target="U90lkcQAft6ZCRrswfQR-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-73" value="Вибір мітки посту" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="46" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-75" target="U90lkcQAft6ZCRrswfQR-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-75" value="Введення&lt;div&gt;тексту посту&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="46" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-77" target="U90lkcQAft6ZCRrswfQR-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-77" value="Натискання кнопки &quot;Опублікувати&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="46" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="106" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-24" y="1130" />
+              <mxPoint x="-24" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-79" target="U90lkcQAft6ZCRrswfQR-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-79" value="Дані коректні?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="66" y="1090" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-82" value="Ні" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="6" y="1105" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-83" target="U90lkcQAft6ZCRrswfQR-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-83" value="Збереження посту&amp;nbsp;в базі даних" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="226" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-85" target="U90lkcQAft6ZCRrswfQR-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-85" value="Відображення підтвердження створення" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="226" y="1201" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-87" target="U90lkcQAft6ZCRrswfQR-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-87" value="Оновлення списку постів" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="226" y="1311" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-89" value="Так" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="166" y="1105" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-90" value="&lt;span id=&quot;docs-internal-guid-d59dab31-7fff-8128-1e36-32dec2264932&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt; Підтвердження про &lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;успішне створення посту&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="206" y="1411" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-92" value="Кінець" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="226" y="1511" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="U90lkcQAft6ZCRrswfQR-92" source="U90lkcQAft6ZCRrswfQR-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="286" y="1481" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-96" target="U90lkcQAft6ZCRrswfQR-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-96" value="Початок" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-97" target="U90lkcQAft6ZCRrswfQR-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-97" value="Вхід в систему" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-98" target="U90lkcQAft6ZCRrswfQR-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-98" value="Перехід до профілю" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-100" target="U90lkcQAft6ZCRrswfQR-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-100" value="Відображення&amp;nbsp;&lt;div&gt;даних профілю&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="370" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-102" target="U90lkcQAft6ZCRrswfQR-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-102" value="Натискання кнопки &quot;Редагувати профіль&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-106" target="U90lkcQAft6ZCRrswfQR-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-106" value="Відображення форми редагування профілю" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="580" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-108" target="U90lkcQAft6ZCRrswfQR-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-108" value="Зміна електронної пошти" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-110" target="U90lkcQAft6ZCRrswfQR-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-110" value="Натискання кнопки &quot;Зберегти зміни&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-112">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="660" as="targetPoint" />
+            <mxPoint x="560" y="940" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="450" y="940" />
+              <mxPoint x="450" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-112" target="U90lkcQAft6ZCRrswfQR-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-112" value="Дані коректні?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="900" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-116" value="Ні" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="910" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-117" target="U90lkcQAft6ZCRrswfQR-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-117" value="Збереження нової&amp;nbsp;електронної пошти&amp;nbsp;в базі даних" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-119" value="Так" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="910" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-120" target="U90lkcQAft6ZCRrswfQR-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-120" value="Надсилання підтвердження на нову електронну&amp;nbsp;пошту" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1020" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-124" target="U90lkcQAft6ZCRrswfQR-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-124" value="Підтвердження про успішне&amp;nbsp;редагування електронної пошти" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1135" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-126" value="Кінець" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-132" target="U90lkcQAft6ZCRrswfQR-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-132" value="Початок" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-134" target="U90lkcQAft6ZCRrswfQR-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-134" value="Вхід в систему" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-136" target="U90lkcQAft6ZCRrswfQR-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-136" value="Перехід на сторінку створення заходу" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-138">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-138" value="Відображення форми створення&amp;nbsp;заходу" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="370" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="530" as="sourcePoint" />
+            <mxPoint x="1080" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="U90lkcQAft6ZCRrswfQR-144">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="640" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-144">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-144" value="Вказання мети проведення заходу" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="690" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="U90lkcQAft6ZCRrswfQR-148">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="850" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-148">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-148" value="Вказання місця проведення" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-153">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="950" y="1360" />
+              <mxPoint x="950" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-153" target="U90lkcQAft6ZCRrswfQR-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-153" value="Дані коректні?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-154" value="Ні" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1335" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-156" target="U90lkcQAft6ZCRrswfQR-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-156" value="Збереження нового&amp;nbsp;заходу в базі" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-158" value="Надсилання сповіщення запрошеним учасникам про&amp;nbsp;новий захід" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1431" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="U90lkcQAft6ZCRrswfQR-162">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1260" y="1491" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-161" value="Так" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1335" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-162" value="&lt;span id=&quot;docs-internal-guid-d59dab31-7fff-8128-1e36-32dec2264932&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt; Підтвердження про &lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;успішне створення посту&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1531" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-163" value="Кінець" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1631" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-162" target="U90lkcQAft6ZCRrswfQR-163">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1260" y="1601" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-165" value="Введення часу та дати початку і кінця заходу" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="580" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-166" value="Введення назви заходу" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-168" value="Введення імені організатора заходу" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="790" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-171" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-169" target="U90lkcQAft6ZCRrswfQR-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-169" value="Додавання детального опису" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-170" target="U90lkcQAft6ZCRrswfQR-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-170" value="Вибір запрошених учасників із списку членів&amp;nbsp;організації" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U90lkcQAft6ZCRrswfQR-173" target="U90lkcQAft6ZCRrswfQR-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U90lkcQAft6ZCRrswfQR-173" value="Підтвердження створення заходу" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
